@@ -1,0 +1,11 @@
+{
+    "mode" : ":nth-child(1) > .react-select-container > .react-select__control > .react-select__value-container",
+    "grade" : ":nth-child(2) > .react-select-container > .react-select__control > .react-select__value-container",
+    "opinion" : ":nth-child(3) > .react-select-container > .react-select__control > .react-select__value-container",
+    "email" : "input[type='email']",
+    "button" : ".btn",
+    "reading" : "button[class='btn hover:shadow-lg active:shadow-inner  p-1 text-lg bg-transparent border-transparent hover:text-gray-800']", 
+    "startReadingButton" : ".btn > span",
+    "stopReadingButton" : ".py-4 > .btn"
+}
+

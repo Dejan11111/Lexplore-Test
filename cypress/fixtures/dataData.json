@@ -1,0 +1,7 @@
+{
+    "eat" : ":nth-child(1) > .space-y-1 > .react-select-container > .react-select__control > .react-select__value-container",
+    "called" : ":nth-child(2) > .space-y-1 > .react-select-container > .react-select__control > .react-select__value-container",
+    "enemies" : ":nth-child(3) > .space-y-1 > .react-select-container > .react-select__control > .react-select__value-container",
+    "tentacles" : ":nth-child(4) > .space-y-1 > .react-select-container > .react-select__control > .react-select__value-container"
+ 
+}
